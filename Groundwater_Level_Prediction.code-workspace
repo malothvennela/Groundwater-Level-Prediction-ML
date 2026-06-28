@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "python.defaultInterpreterPath": "C:\\Users\\venne\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "python.analysis.extraPaths": [
+      "./src"
+    ]
+  }
+}
